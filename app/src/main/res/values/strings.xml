@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Experiment10</string>
+
+    <string-array name="animations">
+        <item>Select Animation</item>
+        <item>Alpha</item>
+        <item>Rotate</item>
+        <item>Scale</item>
+        <item>Spin</item>
+        <item>Translate</item>
+    </string-array>
+
+
+    
+</resources>
